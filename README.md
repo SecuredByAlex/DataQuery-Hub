@@ -102,3 +102,8 @@ Create two tables for this project:
 3. **Aggregate Function:** Write an SQL query to calculate the average salary of employees in the `employees` table. <br/> <img src="https://github.com/user-attachments/assets/30ff835f-3f49-4faa-badc-fd9b6c5d6661" /> <img src="https://github.com/user-attachments/assets/794b1b58-f7e1-4023-b630-a18774e1e33b" />
 4. **Compound Conditions:** Write an SQL query to find all employees in the `IT` department who were hired after `2021-01-01`. <br/> <img src="https://github.com/user-attachments/assets/5c71086d-88e9-4b82-a1ee-5d07964f0b4f" /> <img src="https://github.com/user-attachments/assets/26a00438-3983-444a-9431-e9d83bbe0042" />
 5. **Pattern Matching:** Write an SQL query to find all employees whose `lastname` contains the substring "son" anywhere in the name. <br/> <img src="https://github.com/user-attachments/assets/1fe220dc-2be2-4d6f-8451-bd8e4f779262" /> <img src="https://github.com/user-attachments/assets/f0fd6385-5fcd-417d-be11-5dc6a00f5c09" />
+
+## Conclusion 
+
+This project helps enhance SQL skills through practical queries on employees and machines tables. It covers key concepts like data retrieval, filtering, sorting, joins, aggregations, and pattern matching. By solving real-world data challenges, participants gain hands-on experience in database management, preparing them for advanced data tasks. This project effectively combines theory with practice, making it a valuable tool for developing essential SQL skills for data-related roles.
+
