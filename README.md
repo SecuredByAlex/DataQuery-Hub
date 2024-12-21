@@ -24,23 +24,23 @@ The DataQuery-Hub project focuses on creating a relational database and simulati
 
 Create two tables for this project:
 
-1. **employees**
+1. **employee**
 2. **machines**
 
 #### Schema and Entries
 
-##### employees Table Schema
-- **employee_id** (INT, PRIMARY KEY)
-- **firstname** (VARCHAR)
-- **lastname** (VARCHAR)
-- **department** (VARCHAR)
+##### employee Table Schema
+- **emp_id** (INT, PRIMARY KEY)
+- **f_name** (VARCHAR)
+- **l_name** (VARCHAR)
+- **dept** (VARCHAR)
 - **hiredate** (DATE)
 - **salary** (DECIMAL)
 - **device_id** (INT)
 
 
 **Sample Data for employees:**
-| employee_id | firstname | lastname | department | hiredate    | salary   | device_id |
+|   emp_id    |   f_name  |  l_name  |    dept    |  hiredate   | salary   | device_id |
 |-------------|-----------|----------|------------|-------------|----------|-----------|
 | 1           | John      | Doe      | HR         | 2020-02-01  | 50000.00 | 101       |
 | 2           | Jane      | Smith    | IT         | 2021-05-15  | 60000.00 | 102       |
